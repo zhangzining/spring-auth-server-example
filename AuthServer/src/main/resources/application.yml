@@ -28,8 +28,8 @@ spring:
         registration:
           github-idp:
             provider: github
-            client-id: Ov23liAd77aaWYtb5wKO
-            client-secret: 7d15a6a608d7a99ebf5a6ca59edefcf195dceb18
+            client-id: 
+            client-secret: 
             scope: user:email, read:user
             client-name: Sign in with GitHub
         provider:
